@@ -85,4 +85,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://naotospace-6d827.netlify.app'
+domain: 'https://naotospace.netlify.app'
